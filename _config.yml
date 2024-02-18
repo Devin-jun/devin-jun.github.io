@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhu Jun（朱俊）"
-description              : "PhD candidate in Tsinghua University, Center for Life Sciences(CLS). Focusing on Computational Biology and deep learning."
+description              : "PhD candidate in Tsinghua University, Center for Life Sciences(CLS). Focusing on computational biology and deep learning."
 repository               : "devin-jun/devin-jun.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhu Jun（朱俊）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
