@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Zhu Jun（朱俊）"
+description              : "PhD candidate in Tsinghua University, Center for Life Sciences(CLS). Focusing on Computational Biology and deep learning."
+repository               : "devin-jun/devin-jun.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
