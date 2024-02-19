@@ -34,20 +34,24 @@ Previously, I earned my bachelor's degree from the School of Life Sciences and T
 Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 
 **Jun Zhu<sup>#</sup>**, Zeyang Zhang<sup>#</sup>, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu<sup>* </sup>, Ziwei Zhang<sup> *</sup>, Cheng Chang<sup> *</sup>.
+
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.02* **MICOS** (THE MAMMOTH INTERNATIONAL CONTEST ON OMICS SCIENCES), First Award
+- *2021.12* **iGEM 2021**, Best Software & Gold Medal, Team advisor.
+- *2021.06* Outstanding Graduates of Shanghai (Top 5%)
+- *2020.11* **iGEM 2020**, Gold Medal, Team leader.
+- *2020.10* National Scholarship (Top 1%)
+- *2019.10* National Scholarship (Top 1%)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09-now*, PhD, Tsinghua University, Beijing.
+- *2017.09-2021.06*, Undergraduate, Tongji Univeristy, Shanghai.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.11*, The Fifth Chemical Biology Graduate Forum, Peking University.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.04-2021.08*, Baidu, NLP group, Shanghai.
