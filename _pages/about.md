@@ -34,7 +34,8 @@ Previously, I earned my bachelor's degree from the School of Life Sciences and T
 Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 
 **Jun Zhu<sup>#</sup>**, Zeyang Zhang<sup>#</sup>, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu<sup>* </sup>, Ziwei Zhang<sup> *</sup>, Cheng Chang<sup> *</sup>.
-
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
