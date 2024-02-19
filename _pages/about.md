@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a PhD candidate in the School of Life Sciences at Tsinghua University, focusing on computational biology, single-cell analysis, and deep learning research. For any inquiries regarding potential academic collaborations, please don't hesitate to reach out to me via email at zhuj21@mails.tsinghua.edu.cn.
 
-Previously, I earned my bachelor's degree from the School of Life Sciences and Technology at Tongji University. During my undergraduate studies, I was advised by Dr. Qi Liu in the Department of Bioinformatics.
+Previously, I earned my bachelor's degree from the School of Life Sciences and Technology at Tongji University. During my undergraduate studies, I was advised by Dr. Qi Liu(刘琦) in the Department of Bioinformatics.
 
 
 # 🔥 News
