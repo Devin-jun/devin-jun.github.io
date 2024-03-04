@@ -41,7 +41,7 @@ Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 # 🎖 Honors and Awards
 - *2023.02* **MICOS** (THE MAMMOTH INTERNATIONAL CONTEST ON OMICS SCIENCES), First Award
 - *2021.12* **iGEM 2021**, Best Software & Gold Medal, Team advisor.
-- *2021.06* Outstanding Graduates of Shanghai (Top 5%)
+- *2021.06* Outstanding Graduates of Shanghai (Top 1%)
 - *2020.11* **iGEM 2020**, Gold Medal, Team leader.
 - *2020.10* National Scholarship (Top 1%)
 - *2019.10* National Scholarship (Top 1%)
