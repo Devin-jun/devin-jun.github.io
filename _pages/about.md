@@ -53,7 +53,7 @@ Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 # Invited Talks
 - *2023.11*, The Fifth Chemical Biology Graduate Forum, Peking University.
 
-# 💻 Internships
+# Internships
 - *2021.04-2021.08*, **AI4Science Machine Learning Research Intern; Baidu, NLP group, Shanghai.** <br>
   ·Tumor typing using Omics data based on graph neural network <br>
   ·Development of nearly one million sample clustering algorithms
