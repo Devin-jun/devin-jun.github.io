@@ -22,11 +22,11 @@ I am currently a PhD candidate in the School of Life Sciences at Tsinghua Univer
 Previously, I earned my bachelor's degree from the School of Life Sciences and Technology at Tongji University. During my undergraduate studies, I was advised by Dr. Qi Liu(刘琦) in the Department of Bioinformatics.
 
 
-# 🔥 News
+# News
 - *2024.02*: &nbsp;🎉🎉 We release Cell Decoder !
 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Cell_decoder_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,7 +38,7 @@ Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2023.02* **MICOS** (THE MAMMOTH INTERNATIONAL CONTEST ON OMICS SCIENCES), First Award
 - *2021.12* **iGEM 2021**, Best Software & Gold Medal, Team advisor.
 - *2021.06* Outstanding Graduates of Shanghai (Top 1%)
@@ -46,11 +46,11 @@ Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 - *2020.10* National Scholarship (Top 1%)
 - *2019.10* National Scholarship (Top 1%)
 
-# 📖 Educations
+# Educations
 - *2021.09-now*, PhD, Tsinghua University, Beijing.
 - *2017.09-2021.06*, Undergraduate, Tongji Univeristy, Shanghai.
 
-# 💬 Invited Talks
+# Invited Talks
 - *2023.11*, The Fifth Chemical Biology Graduate Forum, Peking University.
 
 # 💻 Internships
