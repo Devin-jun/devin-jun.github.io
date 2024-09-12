@@ -51,7 +51,8 @@ Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 - *2017.09-2021.06*, Undergraduate, Tongji Univeristy, Shanghai.
 
 # Invited Talks
-- *2023.11*, The Fifth Chemical Biology Graduate Forum, Peking University.
+- *2023.11*, The Fifth Chemical Biology Graduate Forum, Peking University.（Beijing，China）
+- *2024.09*, *Oral Pre*, BENZON SYMPOSIUM No. 68 INTEGRATION OF MASS SPECTROMETRY-BASED PROTEOMICS AND AI TO REVOLUTIONIZE PERSONALIZED MEDICINE. (Copenhagen, Denmark)
 
 # Internships
 - *2024.05-Now*, **AI4Science Research Intern; Tencent, AI Lab, Shenzhen.**
