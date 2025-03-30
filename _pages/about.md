@@ -23,7 +23,7 @@ Previously, I earned my bachelor's degree from the School of Life Sciences and T
 
 
 # News
-- *2024.12*: &nbsp;🚀 Our Paper "DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser" has been accepted by AAAI-2025
+- *2024.12*: &nbsp;🚀 Our Paper "DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser" has been accepted by AAAI-2025 and selected as Oral pre.
 - *2024.02*: &nbsp;🎉🎉 We release Cell Decoder !
 
 # Publications 
