@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jun Zhu（朱俊）"
-  avatar           : "images/person_profile_512x512.png"
+  avatar           : "/images/person_profile.JPG"  # 路径要确保指向你的新头像
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Devin-jun" # 添加你的 GitHub 用户名
   google_plus      :
   keybase          :
   instagram        :
