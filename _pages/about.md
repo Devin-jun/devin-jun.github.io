@@ -28,8 +28,13 @@ Previously, I earned my bachelor's degree from the School of Life Sciences and T
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Cell_decoder_framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser
+
+**Jun Zhu<sup>#,*</sup>**, Yifu Li<sup>#</sup>, Zhenchao Tang<sup>#</sup>, Cheng Chang<sup>*</sup>.
+
+*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-2025)*
+
+---
 
 Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 
