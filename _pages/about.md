@@ -30,7 +30,7 @@ Previously, I earned my bachelor's degree from the School of Life Sciences and T
 
 DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser
 
-**Jun Zhu<sup>#,*</sup>**, Yifu Li<sup>#</sup>, Zhenchao Tang<sup>#</sup>, Cheng Chang<sup>*</sup>.
+**Jun Zhu<sup>#,*</sup>**, Yifu Li<sup>#</sup>, Zhenchao Tang<sup>#</sup>, et al.
 
 *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-2025)*
 
@@ -38,10 +38,9 @@ DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser
 
 Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 
-**Jun Zhu<sup>#</sup>**, Zeyang Zhang<sup>#</sup>, Yujia Xiang, Beini Xie, Xinwen Dong, Linhai Xie, Peijie Zhou, Rongyan Yao, Xiaowen Wang, Yang Li, Fuchu He, Wenwu Zhu<sup>* </sup>, Ziwei Zhang<sup> *</sup>, Cheng Chang<sup> *</sup>.
+**Jun Zhu<sup>#</sup>**, Zeyang Zhang<sup>#</sup>, Yujia Xiang, et al.
 
-</div>
-</div>
+*Under Review*
 
 # Honors and Awards
 - *2023.02* **MICOS** (THE MAMMOTH INTERNATIONAL CONTEST ON OMICS SCIENCES), First Award
