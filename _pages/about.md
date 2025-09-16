@@ -47,8 +47,9 @@ Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 - *2021.12* **iGEM 2021**, Best Software & Gold Medal, Team advisor.
 - *2021.06* Outstanding Graduates of Shanghai (Top 1%)
 - *2020.11* **iGEM 2020**, Gold Medal, Team leader.
-- *2020.10* National Scholarship (Top 1%)
-- *2019.10* National Scholarship (Top 1%)
+- *2019.10,2020.10* National Scholarship (Top 1%)
+- *2016.09* National Bronze, China National Biology Olympiad.
+
 
 # Educations
 - *2021.09-now*, PhD, Tsinghua University, Beijing.
