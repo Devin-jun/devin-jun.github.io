@@ -23,9 +23,8 @@ Previously, I earned my bachelor's degree from the School of Life Sciences and T
 
 
 # News
-- *2025.10* &nbsp;🚀 Our Paper
+- *2025.10* &nbsp;🚀 Our paper **“Cell Decoder: decoding cell identity with multi-scale explainable deep learning”** has been **accepted by _Genome Biology_** 🎉  
 - *2024.12*: &nbsp;🚀 Our Paper "DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser" has been accepted by AAAI-2025 and selected as Oral pre.
-- *2024.02*: &nbsp;🎉🎉 We release Cell Decoder !
 
 # Publications 
 
