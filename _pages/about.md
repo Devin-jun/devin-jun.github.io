@@ -23,6 +23,7 @@ Previously, I earned my bachelor's degree from the School of Life Sciences and T
 
 
 # News
+- *2025.10* &nbsp;🚀 Our Paper
 - *2024.12*: &nbsp;🚀 Our Paper "DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser" has been accepted by AAAI-2025 and selected as Oral pre.
 - *2024.02*: &nbsp;🎉🎉 We release Cell Decoder !
 
@@ -38,11 +39,12 @@ DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser
 
 Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 
-**Jun Zhu<sup>#</sup>**, Zeyang Zhang<sup>#</sup>, Yujia Xiang, et al.
+**Jun Zhu<sup>#</sup>**, Zeyang Zhang<sup>#</sup>, Yujia Xiang<sup>#</sup>, et al.
 
-*Under Review*
+*Genome Biology (Accepted)*
 
 # Honors and Awards
+- *2025.09* National Scholarship (Top 1%), Tsinghua university
 - *2023.02* **MICOS** (THE MAMMOTH INTERNATIONAL CONTEST ON OMICS SCIENCES), First Award
 - *2021.12* **iGEM 2021**, Best Software & Gold Medal, Team advisor.
 - *2021.06* Outstanding Graduates of Shanghai (Top 1%)
