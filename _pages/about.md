@@ -17,30 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD candidate in the School of Life Sciences at Tsinghua University, focusing on computational biology, single-cell analysis, and deep learning research. For any inquiries regarding potential academic collaborations, please don't hesitate to reach out to me via email at zhuj21@mails.tsinghua.edu.cn.
+I am currently a PhD student in the School of Life Sciences at Tsinghua University, focusing on biological omics foundation models, proteomics, and spatial proteomics. For any inquiries regarding potential academic collaborations, please don't hesitate to reach out to me via email at zhuj21@mails.tsinghua.edu.cn.
 
-Previously, I earned my bachelor's degree from the School of Life Sciences and Technology at Tongji University. During my undergraduate studies, I was advised by Dr. Qi Liu(刘琦) in the Department of Bioinformatics.
+Previously, I earned my bachelor's degree from the School of Life Sciences and Technology at Tongji University. During my undergraduate studies, I was advised by Dr. Qi Liu in the Department of Bioinformatics.
 
 
 # News
-- *2025.10* &nbsp;🚀 Our paper **“Cell Decoder: decoding cell identity with multi-scale explainable deep learning”** has been **accepted by _Genome Biology_** 🎉  
+- *2026.03* &nbsp;🚀 Our paper **Bridging genetic and chemical screens from molecular representation to phenotype modeling** accepted in principle at `Cell` 🎉
+- *2025.10* &nbsp;🚀 Our paper **“Cell Decoder: decoding cell identity with multi-scale explainable deep learning”** has been **accepted at _Genome Biology_** 🎉  
 - *2024.12*: &nbsp;🚀 Our Paper "DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser" has been accepted by AAAI-2025 and selected as Oral pre.
 
 # Publications 
 
-DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser
+- **DUSTED: Dual-attention Enhanced Spatial Transcriptomics Denoiser**
+  <br>**Jun Zhu<sup>#,\*</sup>**, Yifu Li<sup>#</sup>, Zhenchao Tang<sup>#</sup>, et al.
+  <br>*Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2025* (Oral)
 
-**Jun Zhu<sup>#,*</sup>**, Yifu Li<sup>#</sup>, Zhenchao Tang<sup>#</sup>, et al.
+- **Cell Decoder: Decoding cell identity with multi-scale explainable deep learning**
+  <br>**Jun Zhu<sup>#</sup>**, Zeyang Zhang<sup>#</sup>, Yujia Xiang<sup>#</sup>, et al.
+  <br>*Genome Biology, 2025*
 
-*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-2025)*
-
----
-
-Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
-
-**Jun Zhu<sup>#</sup>**, Zeyang Zhang<sup>#</sup>, Yujia Xiang<sup>#</sup>, et al.
-
-*Genome Biology (Accepted)*
+- **Bridging genetic and chemical screens from molecular representation to phenotype modeling**
+  <br>Yiming Li, Min Zeng, **Jun Zhu**, Linjing Liu, Fang Wang, Longkai Huang, Fan Yang, Min Li<sup>\*</sup>, Jianhua Yao<sup>\*</sup>
+  <br>*Cell, 2026* (Accepted in Principle)
 
 # Honors and Awards
 - *2025.09* National Scholarship (Top 1%), Tsinghua university
@@ -49,7 +48,7 @@ Cell Decoder: Decoding cell identity with multi-scale explainable deep learning
 - *2021.06* Outstanding Graduates of Shanghai (Top 1%)
 - *2020.11* **iGEM 2020**, Gold Medal, Team leader.
 - *2019.10,2020.10* National Scholarship (Top 1%)
-- *2016.09* National Bronze, China National Biology Olympiad.
+- *2016.09* National Bronze, China National Biology Olympiad. (Ranked 12th in Sichuan Province)
 
 
 # Educations
