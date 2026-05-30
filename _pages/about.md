@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student in the School of Life Sciences at Tsinghua University, focusing on biological omics foundation models, proteomics, and spatial proteomics. For any inquiries regarding potential academic collaborations, please don't hesitate to reach out to me via email at zhuj21@mails.tsinghua.edu.cn.
+I am currently a PhD student in the School of Life Sciences at Tsinghua University, working on LLM post-training and agent development, with a focus on AI for biomedical research. Feel free to reach out via email at zhuj21@mails.tsinghua.edu.cn for potential academic collaborations.
 
 Previously, I earned my bachelor's degree from the School of Life Sciences and Technology at Tongji University. During my undergraduate studies, I was advised by Dr. Qi Liu in the Department of Bioinformatics.
 
